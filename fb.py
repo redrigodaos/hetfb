@@ -219,6 +219,7 @@ def pilih_menu():
                          str(x) + '1234',
                          str(x) + '12345',
                          str(x) + '123456'
+                         str(x) + '567890'
                          ]
                     litpas.append('love')
                     litpas.append('sempre')
